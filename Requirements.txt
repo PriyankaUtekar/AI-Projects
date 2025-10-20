@@ -3,6 +3,6 @@ numpy
 pandas
 matplotlib
 scikit-learn
-xgboost==1.7.6
+xgboost
 openpyxl
 joblib
